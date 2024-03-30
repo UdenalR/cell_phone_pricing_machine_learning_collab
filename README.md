@@ -102,5 +102,5 @@ Claro, aqui estão os caminhos corrigidos para as imagens na pasta "Plots" do se
 10. **Feature Importance - Decision Tree Model (Barplot)**: ![Feature Importance - Decision Tree Model](Plots/feature_importance_decision_tree.png)
     Shows the importance of features in the decision tree model. This can help understand which variables are most relevant to the model in predicting price ranges.
 
-11. **Feature Importance - Random Forest Model (Barplot)**: ![Feature Importance - Random Forest Model](Plots/feature_importance_RFM.png)
+11. **Feature Importance - Random Forest Model (Barplot)**: ![Feature Importance - Random Forest Model](Plots/feature_importance_random_forest_model.png)
     Shows the importance of features in the random forest model. This can be useful to identify the most influential variables in the random forest model for predicting price ranges.
