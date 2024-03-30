@@ -66,39 +66,41 @@ This code aims to perform exploratory analysis and create three machine learning
 
 ---
 
+Claro, aqui estão os caminhos corrigidos para as imagens na pasta "Plots" do seu repositório no Git:
+
+---
+
 ## Plots Generated:
 
-1. **Battery Power vs Price Range (Scatter Plot)**: ![Battery Power vs Price Range](battery_power_vs_price_range.png)
+1. **Battery Power vs Price Range (Scatter Plot)**: ![Battery Power vs Price Range](Plots/battery_power_vs_price_range.png)
    This scatter plot shows the relationship between battery capacity and the price range of mobile devices. It helps to understand if there is any correlation between battery capacity and device price.
 
-2. **RAM vs Price Range (Scatter Plot)**: ![RAM vs Price Range](ram_vs_price_range.png)
+2. **RAM vs Price Range (Scatter Plot)**: ![RAM vs Price Range](Plots/ram_vs_price_range.png)
    In this scatter plot, we can observe the relationship between RAM and the price range of mobile devices. It helps us understand how RAM influences device price.
 
-3. **Count of Mobile Phones in Each Price Range (Count Plot)**: ![Count of Mobile Phones in Each Price Range](count_of_mobile_phones_in_each_price_range.png)
+3. **Count of Mobile Phones in Each Price Range (Count Plot)**: ![Count of Mobile Phones in Each Price Range](Plots/count_of_mobile_phones_in_each_price_range.png)
    This count plot shows the number of mobile devices in each price range. It helps visualize the distribution of mobile devices according to their price.
 
-4. **Pixel Density vs Price Range (Scatter Plot)**: ![Pixel Density vs Price Range](pixel_density_vs_price_range_scatter.png)
+4. **Pixel Density vs Price Range (Scatter Plot)**: ![Pixel Density vs Price Range](Plots/pixel_density_vs_price_range_scatter.png)
    It shows the relationship between pixel density and the price range of mobile devices. This can be useful to understand if screen quality affects the price.
 
-5. **RAM Storage Ratio vs Price Range (Scatter Plot)**: ![RAM Storage Ratio vs Price Range](ram_storage_ratio_vs_price_range_scatter.png)
+5. **RAM Storage Ratio vs Price Range (Scatter Plot)**: ![RAM Storage Ratio vs Price Range](Plots/ram_storage_ratio_vs_price_range_scatter.png)
    Analyzes the relationship between RAM storage ratio and the price range of mobile devices. It can help understand if the ratio of RAM storage to other factors influences the price.
 
-6. **Front Camera Ratio vs Price Range (Scatter Plot)**: ![Front Camera Ratio vs Price Range](front_camera_ratio_vs_price_range_scatter.png)
+6. **Front Camera Ratio vs Price Range (Scatter Plot)**: ![Front Camera Ratio vs Price Range](Plots/front_camera_ratio_vs_price_range_scatter.png)
    Shows the relationship between the front camera ratio and the price range of mobile devices. This can be important to understand how front camera quality impacts the price.
 
-7. **Connectivity Index vs Price Range (Scatter Plot)**: ![Connectivity Index vs Price Range](connectivity_index_vs_price_range_scatter.png)
+7. **Connectivity Index vs Price Range (Scatter Plot)**: ![Connectivity Index vs Price Range](Plots/connectivity_index_vs_price_range_scatter.png)
    Shows the relationship between connectivity index and the price range of mobile devices. This can help understand if connectivity (like 4G, 5G, etc.) influences the price.
 
-8. **Heatmap - Correlation between Variables (Heatmap)**: ![Heatmap - Correlation between Variables](heatmap_correlation_between_variables.png)
+8. **Heatmap - Correlation between Variables (Heatmap)**: ![Heatmap - Correlation between Variables](Plots/heatmap_correlation_between_variables.png)
    Represents the correlation between all variables in the dataset as a heatmap. Helps identify which variables are most correlated and may influence the price of mobile devices.
 
-9. **Feature Importance - Logistic Regression Model (Barplot)**: ![Feature Importance - Logistic Regression Model](feature_importance_logistic_regression.png)
+9. **Feature Importance - Logistic Regression Model (Barplot)**: ![Feature Importance - Logistic Regression Model](Plots/feature_importance_logistic_regression.png)
    Shows the importance of features in the logistic regression model. Helps identify which variables are most important for predicting price ranges.
 
-10. **Feature Importance - Decision Tree Model (Barplot)**: ![Feature Importance - Decision Tree Model](feature_importance_decision_tree.png)
+10. **Feature Importance - Decision Tree Model (Barplot)**: ![Feature Importance - Decision Tree Model](Plots/feature_importance_decision_tree.png)
     Shows the importance of features in the decision tree model. This can help understand which variables are most relevant to the model in predicting price ranges.
 
-11. **Feature Importance - Random Forest Model (Barplot)**: ![Feature Importance - Random Forest Model](feature_importance_RFM.png)
+11. **Feature Importance - Random Forest Model (Barplot)**: ![Feature Importance - Random Forest Model](Plots/feature_importance_RFM.png)
     Shows the importance of features in the random forest model. This can be useful to identify the most influential variables in the random forest model for predicting price ranges.
-
-These images are crucial for visualizing and interpreting the results of the exploratory data analysis and the machine learning models used in the project.
